@@ -1,0 +1,40 @@
+.contenedor-factores{
+    width: 90%;
+    margin: 0 auto;
+}
+.contenedor-factores h1{
+    text-align: center;
+    margin-top: 20px;
+}
+.label-fecha{
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+}
+.react-datepicker-wrapper{
+    width: 100%;
+}
+.fechaInicio, .fechaTermino{
+    margin-top: 5px;
+    width: 100%;
+    padding: 5px;
+    padding-left: 15px;
+    color: #495057;
+    border: solid 1px #ced4da;
+    border-radius: 5px;
+}
+.boton-submit{
+    margin-top: 20px;
+    float: right;
+}
+.contenedor-boton{
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+}
+.boton-descargar{
+    margin-top: 10px;
+}
+.bar{
+    margin-top: 100px;
+}
